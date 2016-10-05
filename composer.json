@@ -1,6 +1,6 @@
 {
-    "name": "tymon/jwt-auth",
-    "description": "JSON Web Token Authentication for Laravel 4 and 5",
+    "name": "enekomunoz/jwt-auth",
+    "description": "Fork of tymondesigns/jwt-auth: JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "jwt",
         "auth",
